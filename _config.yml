@@ -1,0 +1,28 @@
+name: gridddtest
+favicon: null
+layout_spectrum: 0.4804171686992049
+typography_spectrum: 0.8807349123526365
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5506469674874097
+  lightness: 0.3521995940245688
+  saturation: 0.10313049308024347
+  rhythmicContrast: 0.33060701680369675
+purpose: []
