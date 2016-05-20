@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[gridddtest]]></title>
         <description><![CDATA[gridddtest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gridddtest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 17:13:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 20 May 2016 17:26:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gridddtest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9145e5-a48d-497a-a768-d16af0754b74.jpg">]]></description>
+            <link>https://thegrid.ai/gridddtest/needs-better-onboarding-because-i-dont-get-it/index.html</link>
+            <guid isPermaLink="false">03730b81-e13a-4aaa-9869-79df25634a6c</guid>
+            <pubDate>Fri, 20 May 2016 17:26:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is my first post test]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70af403f-d918-4158-bf94-40c1147d9ecb.jpg">]]></description>
-            <link>undefinedthis-is-my-first-post-test/index.html</link>
+            <link>https://thegrid.ai/gridddtest/this-is-my-first-post-test/index.html</link>
             <guid isPermaLink="false">726401b0-36e5-49fb-94e9-f0c0784033e6</guid>
             <pubDate>Fri, 20 May 2016 17:13:31 GMT</pubDate>
         </item>
